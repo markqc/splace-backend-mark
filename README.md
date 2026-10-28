@@ -2,15 +2,6 @@
 
 A standalone local WordPress project for managing and displaying job openings. This project is separate from the front-end assessment.
 
-## Open the website
-
-| Page | Address |
-| --- | --- |
-| Homepage | https://splace-back.local.dev/ |
-| Dashboard | https://splace-back.local.dev/wp-admin/ |
-| Jobs list | https://splace-back.local.dev/jobs/ |
-| Example job | https://splace-back.local.dev/jobs/wordpress-developer/ |
-
 ## What is included
 
 - A custom theme named **Splace Backend Assessment**.
